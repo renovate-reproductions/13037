@@ -1,2 +1,2 @@
 # 13037
-Duplicate changelog entries
+Duplicate changelog entries, see renovatebot/renovate#13037
